@@ -1,0 +1,6 @@
+CREATE TABLE Persons (
+    City varchar(40)
+	First_name varchar(20)
+	Last_name varchar(40)
+	Date_fo_birth DATE()
+	);
